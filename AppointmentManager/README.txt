@@ -1,11 +1,11 @@
-Title: Appointment Scheduler
+Title: Appointment Manager
 Purpose: The purpose of this application is to schedule appointments, add and modify customers, and to generate reports from a database.
 Author: Eric Trevorrow
 Contact Information: EricTrevorrow@gmail.com
 Date: 2/17/2022
 IDE: IntelliJ IDEA Edu 2021.1.3
 JDK: Java 11 (version 11.0.11)
-JavaFX Version: Build with JavaFX-SDK-17.0.2 on home computer, configured in virtual machine to run with JavaFX-SDK-17.0.1.
+JavaFX Version: Built with JavaFX-SDK-17.0.2 on home computer.
 
 Directions: To run the program, load it up within IntelliJ and click the green arrow button. Then, enter "test" and "test" into the login screen
 	to be brought to the main menu. Here, you can view appointments, sort them by weekly or monthly, add appointments, or even modify them from the database.
